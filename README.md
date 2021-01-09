@@ -44,3 +44,58 @@
 - カレンダー設定
 - タスクの開始日〜締切日までをカレンダーに色付け
 - 日ごとに表示、週ごとに表示
+
+
+## 使用技術
+### FW
+- Ruby on Rails6
+- Vue or React
+
+### ライブラリ
+- Bootstrap
+- axios
+- CanvasAPI
+- (Croppie)
+
+### テンプレートシステム
+- Haml
+
+### CSSスクリプト
+- Sass (BEM)
+
+### 認証システム
+- devise(gem)
+- OAuth(gem)
+
+### DB
+- MySQL or postgresql
+- redis
+
+### モジュールバンドラー
+- webpack
+
+### 静的解析ツール
+- rubocop
+- ESLint
+
+### テスト
+- RSpec
+- Capybara
+- jest
+
+### バージョン管理
+- Git/Github
+
+### サーバー
+- Nginx
+- Unicorn
+
+### 環境
+- Docker
+
+### デプロイ
+- AWS
+
+### CI/CD
+- CircleCI
+- Capistrano
